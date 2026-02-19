@@ -93,3 +93,7 @@ def save(leaders_per_country):
         print("Data successfully matched perfectly!")
     else:
         print("Data mismatch!")
+
+save(leaders_per_country)
+
+
