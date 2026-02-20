@@ -13,10 +13,6 @@ def main():
     print("Fetching leaders data...")
     leaders = scraper.get_leaders("be")
 
-    # Fetch all leaders data of a specific country
-    print("Fetching leaders data...")
-    leaders = scraper.get_leaders("be")
-
     # # Fetch all leaders data of a all countries
     # print("Fetching leaders data...")
     # for country in countries:
