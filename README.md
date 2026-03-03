@@ -4,7 +4,7 @@
 
 ## 🏢 Description
 
-As part of my training at BeCode, I developed this project to practice working with APIs, web scraping, and object-oriented programming concepts in Python.
+As a part of my training at BeCode, I developed this project to practice working with APIs, web scraping, and object-oriented programming concepts in Python.
 
 The scenario involves building a scraper that retrieves information about political leaders from different countries. The application fetches data from a custom API, then enriches it by scraping the first paragraph from each leader's Wikipedia page.
 
